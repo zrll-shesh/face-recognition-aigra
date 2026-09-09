@@ -1,0 +1,6 @@
+timestamp,employee_id,name,similarity,confidence_percent,status,verification_method
+2026-09-09T15:50:11,e41600f4,nazril,0.703,93.74,manual_verified,manual
+2026-09-09T16:12:04,e41600f4,nazril,0.712,94.94,auto_verified,face_recognition
+2026-09-09T16:12:36,e41600f4,nazril,0.7484,99.78,auto_verified,face_recognition
+2026-09-09T16:14:00,e41600f4,nazril,0.6392,85.23,manual_verified,manual
+2026-09-09T16:14:30,e41600f4,nazril,0.7275,97.0,auto_verified,face_recognition

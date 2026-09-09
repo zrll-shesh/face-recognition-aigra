@@ -1,0 +1,10 @@
+{
+  "data_mode": "real",
+  "similarity_low_bound": 0.003947416762821377,
+  "similarity_high_bound": 0.8526284843683242,
+  "recommended_similarity_threshold": 0.24195979899497483,
+  "eer_threshold": 0.19195979899497484,
+  "eer_value": 0.0,
+  "confidence_threshold_percent": 82.0,
+  "required_similarity_for_target_confidence": 0.6998658921993336
+}

@@ -1,0 +1,15 @@
+data/employees/ghani/*.jpg
+data/employees/ghani/*.jpeg
+data/employees/ghani/*.png
+data/employees/nadia/*.jpg
+data/employees/nadia/*.jpeg
+data/employees/nadia/*.png
+data/employees/nazril/*.jpg
+data/employees/nazril/*.jpeg
+data/employees/nazril/*.png
+
+data/employees/ghani/
+data/employees/nadia/
+data/employees/nazril/
+
+output/models/buffalo_l/*.onnx

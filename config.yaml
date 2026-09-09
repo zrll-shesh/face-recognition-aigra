@@ -1,0 +1,25 @@
+model:
+  name: buffalo_l
+  detection_size: [640, 640]
+  ctx_id: -1
+
+paths:
+  employee_data: data/employees
+  embeddings_db: output/embeddings/employee_embeddings.json
+  calibration_file: output/embeddings/calibration.json
+  attendance_log: output/logs/attendance_log.csv
+  visualizations: output/visualizations
+  models_dir: output/models
+
+recognition:
+  similarity_threshold: 0.242
+  confidence_threshold_percent: 82.0
+  similarity_low_bound: 0.0
+  similarity_high_bound: 0.75
+  top_k: 3
+  min_samples_per_employee: 3
+
+liveness:
+  enabled: true
+  blur_threshold: 50.0
+  min_face_size: 60
